@@ -4,11 +4,11 @@
 
 > All Course Material you need for Faculty of Computers and Artificial Intelligence (FCAI) - Cairo University 
 
-> Bachelor's Degree (**Cairo University** & **Radford University**) -- Master's Degree (**Virginia Tech**)
+> Bachelor's Degree (**Cairo University** & **Radford University**)  
 
 <hr>
 
-<img src="https://github.com/yelnady/Joe-Material/blob/main/Joe's%20Notes.png" alt="Image description" width="50%"/>
+<img src="https://github.com/yelnady/Joe-Material/blob/main/Joe's%20Notes.png" alt="Image description" width="80%"/>
 
 **Always look for `Joe's Notes` Folder!**
 
@@ -93,7 +93,3 @@
 - [ITEC 112 (A Global Perspective of Information Technology)](https://drive.google.com/drive/folders/1esz2hrVSnlBQxuj2KRnEiHrc430bP-EH?usp=share_link)
 - [MATH 172 (Calculus and Analytic Geometry II )](https://drive.google.com/drive/folders/1-caZYHMidz4IoRdSWk4GGs1KAyUK6V6G?usp=share_link)
 - [ECON 205 (Principles of Macroeconomics)](https://drive.google.com/drive/folders/1Z3hqSe2VZKo0i2nJe-8B2dYthFeSzlrl?usp=share_link)
-
-
-
-## [Year5&6 (Master of Science / Data Science) (Virginia Tech)]()
