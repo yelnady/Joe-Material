@@ -47,11 +47,14 @@
 - [Introduction to Database Systems (DB 1)](https://drive.google.com/drive/folders/1hllcIDGNE8cvuR-ySw7A4SbL8Kvtik8X?usp=share_link)
 - [Fundamentals of Management](https://drive.google.com/drive/folders/14Sf3NO8Vgoh5GtgFLo6elZooh3SaBkih?usp=share_link)
 
-### [Year3-Term1 (CS)](https://drive.google.com/drive/folders/13G-LylZmPYh79dONbyUFsZ-RfNjp9jik?usp=share_link)
+### [Year3-Term1](https://drive.google.com/drive/folders/13G-LylZmPYh79dONbyUFsZ-RfNjp9jik?usp=share_link)
 - [Operating Systems (OS 1)](https://drive.google.com/drive/folders/1s8FR4h6tXG1DRcqi81A_jahNrHE5da1o?usp=share_link)
-- [Advanced Software Engineering (SW 2)](https://drive.google.com/drive/folders/1aPfpg_zkjiMysuAc0iovU7JvG0mTQKVN?usp=share_link)
-- [Computer Organization and Architecture](https://drive.google.com/drive/folders/1bd7krjllS3KhQxvRNjLYSoqJQpBC61T6?usp=share_link)
-- [Algorithms Analysis and Design](https://drive.google.com/drive/folders/1-BuSviBDtaso2tEWN3am2ZJzm6oZW0yL?usp=share_link)
+- [Advanced Software Engineering (SW 2) (CS)](https://drive.google.com/drive/folders/1aPfpg_zkjiMysuAc0iovU7JvG0mTQKVN?usp=share_link)
+- [Computer Organization and Architecture (CS)](https://drive.google.com/drive/folders/1bd7krjllS3KhQxvRNjLYSoqJQpBC61T6?usp=share_link)
+- [Algorithms Analysis and Design (CS)](https://drive.google.com/drive/folders/1-BuSviBDtaso2tEWN3am2ZJzm6oZW0yL?usp=share_link)
+- [File Management and Organization (IS)](https://drive.google.com/drive/folders/15KMWXcw8DR1vtNC5LOAvuZlz3_ot0f7k?usp=share_link)
+- [System Modeling and Simulation (DS)](https://drive.google.com/drive/folders/1oZdVj0HkkPegHrCqY0VpIZiDIKakn3Z-?usp=share_link)
+- [Signals and Systems (IT)](https://drive.google.com/drive/folders/1NErlUpTVhyk6Y4NrYuotX0qbRdxam8d7?usp=share_link)
 - Advanced Data Structures
 - Information Theory and Data Compression
 
@@ -64,8 +67,7 @@
 - Concepts of Programming Languages (See [ITEC 380](https://drive.google.com/drive/folders/17MBYNak0MVzD8bgubTbkk0kej29jZayK?usp=share_link) from Radford Univeristy)
 
 ### [Other Courses](https://drive.google.com/drive/folders/1NQCespr-kb774vB5es-B_NbS4YkM90q3?usp=share_link)
-- [Simulation](https://drive.google.com/drive/folders/1oZdVj0HkkPegHrCqY0VpIZiDIKakn3Z-?usp=share_link)
-- [Signals](https://drive.google.com/drive/folders/1NErlUpTVhyk6Y4NrYuotX0qbRdxam8d7?usp=share_link)
+
 - [Multimedia](https://drive.google.com/drive/folders/1YTH2n01HgpPGgr5VsTCOuy1gEv47JqWk?usp=share_link)
 - [Fundamentals of Information Systems](https://drive.google.com/drive/folders/1to2-Vc67pgkNTe3czN-7ldrXMnJXF4bF?usp=share_link)
 - [Parallel Processing](https://drive.google.com/drive/folders/1iIu0geESuCCA8BoqCxcP_lzMRJncjx39?usp=share_link)
